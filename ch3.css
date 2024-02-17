@@ -1,0 +1,201 @@
+.container{
+    margin: 10px 150px  ;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 190px;
+    
+}
+
+.liens{
+    flex: 2;
+}
+
+.liens ul{
+   list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+   
+}
+.liens ul li{
+   
+    margin-right: 20px;
+}
+.liens ul li a{
+    text-decoration: none;
+   
+}
+.liens ul li :last-child{
+    margin-right: 0;
+}
+
+body{
+   
+.presentation{
+    margin-top: 100px;
+    margin-bottom: 40px;
+    margin-left: ;
+}
+.presentation img{
+   margin-top: -320px;
+   float: right;
+   height: 400px;
+   margin-left: -40px;
+  
+}
+#icone_Reseau img{
+    margin: 5px;
+}
+.skills{
+    text-align: center;
+    font-size: 30px;
+}
+.skills img{
+    width: 120px;
+    margin-right: 30px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+   
+}
+.myexperience{
+    background-color: black;
+    color: white;
+    margin-bottom: 50px;
+    height: 650px;
+}
+.myexperience #entete{
+    text-align: center;
+    font-size: 30px;
+}
+.google{
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    
+}
+.youtube{
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+.twitter{
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px ;
+    
+}
+#experienceGoogle{
+    margin-top: 5px;
+}
+#experienceToutube{
+    margin-top: 5px;
+}
+#experienceTwitter{
+    margin-top: 5px;
+}
+#googleEntete{
+    display: flex;
+    justify-content: space-between;  
+}
+#twitterEntete{
+    display: flex;
+    justify-content: space-between;  
+}
+#youtubeEntete{
+    display: flex;
+    justify-content: space-between;  
+}
+#dateExperience{
+    padding: 10px;
+   
+}
+
+#experienceEntete{
+    display: flex;
+    width: 290px;
+    justify-content: space-between;
+}
+.aboutMe{
+    display: flex;
+   display: ;
+
+}
+.aboutMe img{
+    margin-right: 80px;
+    width: 525.45px;
+    height:572px ;
+
+}
+#aboutEntete{
+    font-size: 30px;
+}
+.aboutMe h2{
+   
+}
+.abouttxt{
+    
+    width: Hug (610px)
+height: Hug (424px)
+gap: 20px
+
+}
+
+.myProject{
+    font-size: 30px;
+    margin:10px 150px  ;
+    background-color:black;
+    color:white;
+    margin: -03px;
+    justify-content: center;
+}
+.project1{
+    display: flex;
+    align-items:center;
+   
+}
+.project1 img{
+    width:594 ;
+    height: 476px;
+}
+#project1_description{
+    font-size: 15px;
+}
+#readmore1{
+    width: 20px;
+    height: 20px
+
+}
+.project2{
+    display: flex;
+    align-items:center;
+   
+}
+.project2 img{
+    width:594 ;
+    height: 476px;
+}
+#project2_description{
+    font-size: 15px;
+}
+.project3{
+    display: flex;
+    align-items:center;
+   
+}
+.project3 img{
+    width:594 ;
+    height: 476px;
+}
+#project3_description{
+    font-size: 15px;
+}
+
+}
