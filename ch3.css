@@ -275,7 +275,7 @@ margin-right: 20px;
 .commentaire{
     display: flex;
     justify-content: space-between;
-    margin-left: 50px;
+    margin-left: 140px;
 }
 .input{
     display: inline-block;
@@ -292,7 +292,7 @@ margin-right: 20px;
   
 }
 #inputtxt{
-    justify-content: space-between;
+    
 }
 #get{
     width: 103px;
@@ -314,12 +314,15 @@ text-align: center;
 }
 #input_res{
     display: flex;
+    
 }
 footer{
     justify-content: space-between;
     display: flex;
     background-color:black;
     color:white;
+    margin-right: -20px ;
+    margin-left: -20px;
 }
 
 
